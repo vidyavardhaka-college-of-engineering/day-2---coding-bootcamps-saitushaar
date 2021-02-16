@@ -8,5 +8,5 @@ const char c = '#';
 //if you write correct code fallowing output will print
 printf("%c\n",c);
 printf("Good job..");
-return 0;
+return 0; 
 }
