@@ -5,7 +5,7 @@ int main()
 {
 //Replace Your Code and values in bellow two lines
 int age = 19;
-float weight = 52;
+float weight = 52.555;
 
 //If you done correct you will get this meessage 
 printf("Your weight is %f\n",weight);
