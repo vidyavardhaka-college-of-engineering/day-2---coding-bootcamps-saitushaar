@@ -4,7 +4,7 @@
 //L2 = 20
 
 #include<stdio.h>
-int main()
+int main() 
 {
 //Write your code below this line
 int L1 = 10;
