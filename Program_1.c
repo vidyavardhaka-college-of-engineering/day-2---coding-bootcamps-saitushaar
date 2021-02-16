@@ -4,7 +4,7 @@ the word "TYPE" */
 #include<stdio.h>
 int main()
 {
-int num = 100;
+int num = 100; 
 char letter = 'A';
 /* Printing num and charecter value */
 printf("%d\n",num);
